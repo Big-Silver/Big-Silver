@@ -54,10 +54,3 @@ I'm a senior web & mobile developer.
   
   `#productivity`, `#startups`, `#code`, `#machine learning`, `#apis`, `#investing`, `#vegan food`, `#products`, `#music`, `#movies`, `#gifs`, `#emojis`, `#tech`, `#ux`, `#design`
 
-<p align="center">
-  <a href="https://julian-kunzig.herokuapp.com">Website</a> •
-  <a href="https://www.linkedin.com/in/juli%C3%A1n-andr%C3%A9s-kunzig-b76230a1/">Linkedin</a> •
-  <a href="https://m.facebook.com/julian.kunzig">Facebook</a> •
-  <a href="https://instagram.com/@_jakf_">Instagram</a> •
-  <a href="https://stackoverflow.com/users/14245297/julian-kunzig">Stackoverflow</a>
-</p>

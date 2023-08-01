@@ -1,56 +1,169 @@
-### Hi There <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=big-silver.big-silver">
 
-I'm a senior web & mobile developer.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+BIG+SILVER....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-### Skills
+<!-- <h5 align="center">
+  <code><a href="" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5> -->
+<br>
+<p align="left">
+  Hi, I'm Big Silver, Senior Software Developer & Computer Engineer & Tech Assistant.
+  <br>
+</p>
 
-- Backend
+### 🧐 More About Me:
 
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+- 🔭 &nbsp; I’m currently working on **Kunzig Consulting Inc**.
+- 🤝 &nbsp; I’m looking for new opportunity.
+- 🌱 &nbsp; I’m currently learning new technology; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/big-silver?tab=repositories)
+- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [here](https://www.kunzigconsulting.com/about)
+- 📝 &nbsp; Checkout my [portfolio](https://www.kunzigconsulting.com/)
+- 📚 &nbsp; When I am free, I read fantasy and fiction novels and on the weekend I'd like to explore hiking.
 
-- Frontend
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/-React Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="vuejs" src="https://img.shields.io/badge/-Vue-4385d?style=flat-square&logo=vue.js&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-764AB6?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-D9A03C?style=flat-square&logo=Springboot&logoColor=white" />
+  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-B7a78C?style=flat-square&logo=ruby&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-B7e78C?style=flat-square&logo=php&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Mysql" src="https://img.shields.io/badge/-MySQL-CB3837?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-B8178C?style=flat-square&logo=amazon&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />  
+</p>
+<!-- <p align="center">
+  <code><img title="C" height="25" src="images/c.svg"></code>
+  <code><img title="C++" height="25" src="images/cpp.svg"></code>
+  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
+  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="Django" height="25" src="images/django.png"></code>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="SASS" height="25" src="images/sass.svg"></code>
+  <code><img title="Gulp" height="25" src="images/gulp.svg"></code>
+  <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="Redux" height="25" src="images/redux.svg"></code>
+  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
+  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
+  <code><img title="Java" height="25" src="images/java-original.svg"></code>
+  <code><img title="JSON" height="25" src="images/json.svg"></code>
+  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
+  <code><img title="Android" height="25" src="images/android.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="npm" height="25" src="images/npm.svg"></code>
+  <code><img title="PHP" height="25" src="images/php.svg"></code>
+  <code><img title="Flask" height="25" src="images/flask.png"></code>
+</p> -->
+<hr>
 
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=big-silver&theme=react&border=61dafb&hide_border=true" alt="big-silver" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=big-silver&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=big-silver&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
 
-- iOS & Android
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=big-silver&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
-    <code><img height="20" src="data:image/png;base64,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"></code>
-    <code><img height="20" src="data:image/png;base64,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"></code>
+<hr>
 
-- Other
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Big-Silver/Fabric-Drag-n-Drop" title="Fabric-Drag-n-Drop"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=big-silver&repo=Fabric-Drag-n-Drop&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Big-Silver/React-Redux-Material-Chatting" title="DReact-Redux-Material-Chatting"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=big-silver&repo=React-Redux-Material-Chatting&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Big-Silver/Angular2-Dashboard-Firebase" title="Angular2-Dashboard-Firebase"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=big-silver&repo=Angular2-Dashboard-Firebase&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Big-Silver/Cesium-Gradient" title="Cesium-Gradient"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=big-silver&repo=Cesium-Gradient&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Big-Silver/Docker-Laravel-Seed" title="Docker-Laravel-Seed"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=big-silver&repo=Docker-Laravel-Seed&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Big-Silver/Node-Authentication" title="Node-Authentication"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=big-silver&repo=Node-Authentication&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
 
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mongodb/mongodb.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
+<h4 align="center">
+  <a href="https://github.com/big-silver?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
 
-  #### Super Tools
-  <p>
-  <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Spotify-000000?style=flat-square&logo=Spotify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=Figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Typeform-000000?style=flat-square&logo=Typeform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Webflow-4353FF?style=flat-square&logo=Webflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Pitch-737FFF?style=flat-square&logo=Pitch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Airtable-F92B60?style=flat-square&logo=Airtable&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Zapier-FF561B?style=flat-square&logo=Zapier&logoColor=white"/>
-  </p>
-  
-  #### Interests
-  
-  `#productivity`, `#startups`, `#code`, `#machine learning`, `#apis`, `#investing`, `#vegan food`, `#products`, `#music`, `#movies`, `#gifs`, `#emojis`, `#tech`, `#ux`, `#design`
+
+
+**big-silver/big-silver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
+
+<!-- ![Metrics](https://metrics.lecoq.io/big-silver?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=America%2FNew_York) -->
+
 

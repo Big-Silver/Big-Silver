@@ -26,8 +26,8 @@
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/big-silver?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [here](https://www.kunzigconsulting.com/about)
-- 📝 &nbsp; Checkout my [portfolio](https://www.kunzigconsulting.com/)
+- 📫 &nbsp; Feel free to ping me
+- 📝 &nbsp; Checkout my portfolio
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels and on the weekend I'd like to explore hiking.
 
 <hr>
